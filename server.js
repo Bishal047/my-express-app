@@ -12,7 +12,7 @@ app.use(express.json());
 const db = mysql.createConnection({
     host: 'sql12.freesqldatabase.com', // Your MySQL host, usually localhost for local development
     user: 'sql12737186', // Your MySQL username
-    password: 'CD1P8iRHUs', // Your MySQL password
+    password: 'adamapra', // Your MySQL password
     database: 'sql12737186' // The database name you want to connect to
 });
 
